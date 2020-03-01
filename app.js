@@ -250,6 +250,7 @@ return {
 	return Domstring;
 },
 	
+
 	//return getInput();
 	//
 	//This function will clear the input field
