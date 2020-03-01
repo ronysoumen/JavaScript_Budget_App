@@ -252,7 +252,7 @@ return {
 	
 
 	//return getInput();
-	//testing//
+	//testing//git
 	//This function will clear the input field
 	clrInput:function(){
 	//var Dom=uiCtrl.getDomstring();
